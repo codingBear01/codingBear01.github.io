@@ -3,7 +3,7 @@ module.exports = {
     title: `codingBear's DevLogs`,
     description: `The blog about my record of learning programming.`,
     author: `codingBear`,
-    siteUrl: 'https://codingbearcave.com',
+    siteUrl: 'https://codingBear01.github.io/',
   },
   plugins: [
     {
@@ -16,7 +16,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-canonical-urls',
       options: {
-        siteUrl: 'https://codingbearcave.com',
+        siteUrl: 'https://codingBear01.github.io/',
         stripQueryString: true,
       },
     },
